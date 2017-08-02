@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_todo_list">To Do List</string>
+    <string name="tasktitle">Task Title:</string>
+    <string name="shortdescription">Short Description:</string>
+    <string name="duedate">Due Date:</string>
+    <string name="additionalinfo">Additional Information</string>
+    <string name="save">Save</string>
+    <string name="hint_title">task title name</string>
+    <string name="hint_description">enter short description here</string>
+    <string name="hint_date">due date</string>
+    <string name="hint_info">additional information</string>
+    <string name="tasktitle1">Task Title</string>
+    <string name="hint_title1">task title name</string>
+    <string name="alert_title">Task Title Missing</string>
+    <string name="alert_date">Due Date Missing</string>
+    <string name="alert_message1">Please enter a task title</string>
+    <string name="alert_message2">Please enter a due date</string>
+</resources>
